@@ -2,7 +2,7 @@
 **Time Limit - 2 seconds, Memory Limit - 256MB**
 
 
-Jaeseok, traveling around the world, is a budget traveler. He loves traveling, but does not have much money. He got a free coupon for air tickets from his city and to any city and from any city to his city. With the coupon, he is trying to optimize his itinerary only considering the transportation costs between cities that he wants to visit as long as visiting all the cities so that he could use the money on tasty local foods and the sightseeing. Exciting!
+Jaeseok, traveling around the world, is a budget traveler. He loves traveling, but does not have much money. He got a free coupon for air tickets from his city to any city and from any city to his city. With the coupon, he is trying to optimize his itinerary only considering the transportation costs between cities that he wants to visit as long as visiting all the cities so that he could use the money on tasty local foods and the sightseeing. Exciting!
 
 ## Input
 For each test case, the first line contains the number of the cities except for his own one, $1 \le N \le 10^5$, and the number of transportations between the cities, $0 \le M \le 10^6$, separated by a single space.  
